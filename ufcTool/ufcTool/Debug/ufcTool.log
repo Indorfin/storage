@@ -1,0 +1,55 @@
+﻿  stdafx.cpp
+  Fight.cpp
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(110,66): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(111,66): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(120,25): warning C4244:  'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(120,25): warning C4244:         with
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(120,25): warning C4244:         [
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(120,25): warning C4244:             _Ty=double
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(120,25): warning C4244:         ]
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(121,25): warning C4244:  'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(121,25): warning C4244:         with
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(121,25): warning C4244:         [
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(121,25): warning C4244:             _Ty=double
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(121,25): warning C4244:         ]
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(122,75): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(123,75): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(130,57): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(130,96): warning C4244:  '-=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(131,57): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(131,96): warning C4244:  '-=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(132,74): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(133,74): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(134,77): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(135,77): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(136,85): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(137,85): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(294,9): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(320,9): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(442,36): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(492,81): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(493,82): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(494,89): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(495,90): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(500,35): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(501,39): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(502,36): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(503,40): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(507,35): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(508,39): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(509,36): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(510,40): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(527,15): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(528,18): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(534,14): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(536,15): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(540,16): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(541,29): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(547,14): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(549,15): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(551,16): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+  Prediction.cpp
+  ufcTool.cpp
+  Generating Code...
+C:\VSprojects\ufcTool\ufcTool\Fight.cpp(552,29): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+  ufcTool.vcxproj -> C:\VSprojects\ufcTool\Debug\ufcTool.exe

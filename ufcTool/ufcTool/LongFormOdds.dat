@@ -1,0 +1,198 @@
+The bets picked by my algorithm will be in the comments once I do the math on those. This way, you can verify that the comment remains unedited after the event. If the bets are changed, the comment will be deleted and replaced. The sets of odds in this post are rougher estimates of when you should place a bet, and I can't promise that they'll be as profitable as the bets picked by the algorithm.
+
+How to read the results
+
+Each set of odds represents the **least profitable** odds at which you should bet on them.
+
+Confidence: The sum of everyone's score for how well they know the fight
+
+r/UFCTool Picks: How many members of this subreddit made picks. In my experience, you should only count odds generated from 5 or more picks
+
+Okay Bet: The least cautious set of odds. This will generally result in a bet or two for each event.
+
+Good Bet: A (usually) more cautious set of odds. This will not pick bets nearly as often as Okay Bet, but on average, will be more profitable.
+
+Safe Bet: The most cautious set of odds. This set will not pick a bet very often, but when it does, these are highly likely to be profitable.
+
+-------------------
+
+
+		[Confidence: 40]
+		[r/UFCTool Picks: 8]
+
+	Colby Covington
+	 Okay Bet: 61
+	 Good Bet : 44
+	 Safe Bet : 114
+
+	Robbie Lawler
+	 Okay Bet: 497
+	 Good Bet : 574
+	 Safe Bet : 644
+
+----------
+
+		[Confidence: 38]
+		[r/UFCTool Picks: 8]
+
+	Clay Guida
+	 Okay Bet: 316
+	 Good Bet : 352
+	 Safe Bet : 422
+
+	Jim Miller
+	 Okay Bet: 171
+	 Good Bet : 173
+	 Safe Bet : 243
+
+----------
+
+		[Confidence: 25]
+		[r/UFCTool Picks: 6]
+
+	Joaquim Silva
+	 Okay Bet: 345
+	 Good Bet : 443
+	 Safe Bet : 513
+
+	Nasrat Haqparast
+	 Okay Bet: 146
+	 Good Bet : 197
+	 Safe Bet : 267
+
+----------
+
+		[Confidence: 27]
+		[r/UFCTool Picks: 7]
+
+	Gerald Meerschaert
+	 Okay Bet: 279
+	 Good Bet : 385
+	 Safe Bet : 455
+
+	Trevin Giles
+	 Okay Bet: 212
+	 Good Bet : 305
+	 Safe Bet : 375
+
+----------
+
+		[Confidence: 20]
+		[r/UFCTool Picks: 5]
+
+	Scott Holtzman
+	 Okay Bet: 61
+	 Good Bet : 50
+	 Safe Bet : 120
+
+	Dong Hyun Ma
+	 Okay Bet: 466
+	 Good Bet : 550
+	 Safe Bet : 620
+
+----------
+
+		[Confidence: 26]
+		[r/UFCTool Picks: 7]
+
+	Darko Stosic
+	 Okay Bet: 179
+	 Good Bet : 249
+	 Safe Bet : 319
+
+	Kennedy Nzechukwu
+	 Okay Bet: 357
+	 Good Bet : 460
+	 Safe Bet : 530
+
+----------
+
+		[Confidence: 20]
+		[r/UFCTool Picks: 6]
+
+	Mickey Gall
+	 Okay Bet: 227
+	 Good Bet : 346
+	 Safe Bet : 416
+
+	Salim Touahri
+	 Okay Bet: 276
+	 Good Bet : 399
+	 Safe Bet : 469
+
+----------
+
+		[Confidence: 30]
+		[r/UFCTool Picks: 8]
+
+	Antonina Shevchenko
+	 Okay Bet: 73
+	 Good Bet : 52
+	 Safe Bet : 122
+
+	Lucie Pudilova
+	 Okay Bet: 454
+	 Good Bet : 524
+	 Safe Bet : 594
+
+----------
+
+		[Confidence: 20]
+		[r/UFCTool Picks: 7]
+
+	Matt Schnell
+	 Okay Bet: 180
+	 Good Bet : 224
+	 Safe Bet : 294
+
+	Jordan Espinosa
+	 Okay Bet: 302
+	 Good Bet : 375
+	 Safe Bet : 445
+
+----------
+
+		[Confidence: 16]
+		[r/UFCTool Picks: 6]
+
+	Mara Romero Borella
+	 Okay Bet: 17
+	 Good Bet : 24
+	 Safe Bet : 94
+
+	Lauren Murphey
+	 Okay Bet: 448
+	 Good Bet : 563
+	 Safe Bet : 633
+
+----------
+
+		[Confidence: 16]
+		[r/UFCTool Picks: 6]
+
+	Claudio Silva
+	 Okay Bet: -101
+	 Good Bet : -50
+	 Safe Bet : 20
+
+	Cole Williams
+	 Okay Bet: 711
+	 Good Bet : 950
+	 Safe Bet : 1020
+
+----------
+
+		[Confidence: 8]
+		[r/UFCTool Picks: 6]
+
+	Hannah Goldy
+	 Okay Bet: 84
+	 Good Bet : 64
+	 Safe Bet : 134
+
+	Miranda Granger
+	 Okay Bet: 431
+	 Good Bet : 494
+	 Safe Bet : 564
+
+----------
